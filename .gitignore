@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# MSVC intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.FileListAbsolute.txt
+
+# Binaries
+*.exe
+*.dll
+*.lib
+
+# MPI SDK artifacts copied into projects
+MicrosoftMPI_SDK_EULA.rtf
+MPI_SDK_TPN.txt
+mpitrace.man
