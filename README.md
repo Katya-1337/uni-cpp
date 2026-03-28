@@ -19,6 +19,3 @@
 - `parallel_quicksort_openmp.cpp` — параллельный QuickSort на `OpenMP`
 - `parallel_sort_openmp_experiments.cpp` — эксперименты по параллельной сортировке
 - `mpi_distributed_sum_root.sln`, `mpi_distributed_sum\mpi_distributed_sum.sln` — файлы решений Visual Studio
-
-## Примечание
-Репозиторий подходит для демонстрации практического опыта в области параллельных алгоритмов, численных методов и производительного программирования на `C++`.
